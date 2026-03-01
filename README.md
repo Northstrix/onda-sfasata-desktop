@@ -1,6 +1,8 @@
 # Onda Sfasata Desktop
 A native Windows version of an authentic Italian learning app.
 
+Fully localized into English and German (Hochdeutsch).
+
 SourceForge page: https://sourceforge.net/p/onda-sfasata-desktop/
 
 ![Alt Preview](https://github.com/Northstrix/onda-sfasata-desktop/blob/main/1.webp?raw=true)
