@@ -3,6 +3,8 @@ A native Windows version of an authentic Italian learning app.
 
 Fully localized into English and German (Hochdeutsch).
 
+And don’t forget to unzip both archives in the `audio/Italian` directory.
+
 SourceForge page: https://sourceforge.net/p/onda-sfasata-desktop/
 
 ![Alt Preview](https://github.com/Northstrix/onda-sfasata-desktop/blob/main/1.webp?raw=true)
